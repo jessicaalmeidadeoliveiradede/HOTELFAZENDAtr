@@ -30,7 +30,7 @@
 ### **No terminal:**
 ### **1 -** Clone o repositório.
 ```console
-git clone https://github.com/faelfernandes/hotelfazenda.git
+git@github.com:jessicaalmeidadeoliveiradede/HOTELFAZENDAtr.git
 ```
 
 ### **2 -** Vá para a raiz do projeto.
